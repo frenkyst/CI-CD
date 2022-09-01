@@ -91,14 +91,24 @@ Sekarang kita akan mencoba mempraktekkan bagaimana cara kerja dari __CI/CD__, se
     
             git clone git@github.com:frenkyst/wayshub-frontend.git
 
-            nano wayshub-frontend/public/index.html
-
 ![image](https://user-images.githubusercontent.com/40049149/187884306-e2ec2fb9-0cb5-44e7-8884-4259cb2b97a3.png)
-
+    
 ![image](https://user-images.githubusercontent.com/40049149/187885040-674ac4e5-4f1a-4f56-932c-87251e3359a9.png)
+
+            nano public/index.html
 
 ![image](https://user-images.githubusercontent.com/40049149/187885230-0c6e6aa8-2e6e-4d4d-9ad2-ca1e83e169fb.png)
 
+   Lakukan add, commit, lalu lakukan push
+
+    
+        git add .
+
+        git commit -m "edit titel"
+
+    ![image](https://user-images.githubusercontent.com/40049149/187887640-da16db93-d1b3-45b0-9214-dd32880047b5.png)
+
+        git push origin main
 
 2. Selanjutnya kita coba lihat di __Cloudflare pages__ kita, disini __Cloudflare__ secara otomatis melakukan build ulang, kenapa? karena sebelumnya kita sudah melakukan suatu perubahan di bagian title tadi. Selanjutnya kita tunggu saja sampai proses build selesai.
 
