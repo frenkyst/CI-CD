@@ -115,10 +115,11 @@ Sekarang kita akan mencoba mempraktekkan bagaimana cara kerja dari __CI/CD__, se
 
 2. Selanjutnya kita coba lihat di __Cloudflare pages__ kita, disini __Cloudflare__ secara otomatis melakukan build ulang, kenapa? karena sebelumnya kita sudah melakukan suatu perubahan di bagian title tadi. Selanjutnya kita tunggu saja sampai proses build selesai.
 
-image1
+![image](https://user-images.githubusercontent.com/40049149/187888120-45708738-23c9-4395-8152-60a823f78b85.png)
 
-3. Jika sudah selesai dan proses build telah berhasil, maka akan berubah seperti di bawah ini. Pada bagian title yang sebelumnya __Dumbflix - Fadhil Darma Putera Z__ telah menjadi __Dumbflix - Frenky Menther__
+3. Jika sudah selesai dan proses build telah berhasil, maka akan berubah seperti di bawah ini. Pada bagian title yang sebelumnya __WaysHub__ telah menjadi __WaysHub - Frenky Menther__
 
+![image](https://user-images.githubusercontent.com/40049149/187888313-4f122831-3116-4616-8642-4d154acd5c22.png)
 
 
 
