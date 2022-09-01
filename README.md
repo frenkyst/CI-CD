@@ -67,7 +67,7 @@ __LINK Cloudflare__ : https://dash.cloudflare.com/sign-up
 
 8. Setelah itu kita tunggu saja sampai proses build selesai.
 
-image1
+![image](https://user-images.githubusercontent.com/40049149/187878496-5dc0b442-9655-4f60-8832-cf12651163f1.png)
 
 9. Jika proses build berhasil maka akan terlihat seperti berikut.
 
