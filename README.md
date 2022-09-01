@@ -42,11 +42,11 @@ __LINK Cloudflare__ : https://dash.cloudflare.com/sign-up
 
 2. Jika kalian sudah selesai melakukan registrasi kalian bisa masuk ke __menu pages__ untuk membuat project baru.
 
-image1
+![image](https://user-images.githubusercontent.com/40049149/187875794-8cc2d920-5519-4c17-9fb6-05cb4ba45b26.png)
 
 3. Selanjutnya Tekan bagian __Connect to GitHub__, supaya repository di github kita terdeteksi ke __Cloudflare Pages__
 
-image1
+![image](https://user-images.githubusercontent.com/40049149/187875980-db7dbcce-e998-433c-9352-f235a56919b1.png)
 
 4. Pilih akun yang sesuai. Misalkan saya menggunakan akun pribadi yang bernama demo-dumbways dan pilih satu repository.
 
