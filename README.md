@@ -34,17 +34,17 @@ Continuous deployment merupakan proses otomatis agar aplikasi yang telah siap di
 Selain menggunakan tools CI/CD yang telah disebutkan sebelumnya, kita akan mencoba melakukan konfigurasi sederhana untuk memahami konsep dan cara kerja CI/CD menggunakan Cloudflare Pages.
 
 CI/CD Set-Up with Cloudflare​
-1. Pastikan kalian sudah melakukan register ke https://cloudflare.com, Jika kalian belum mempunyai akun Cloudflare kalian bisa melakukan registrasi dengan klik link dibawah ini.
+1. Pastikan kalian sudah melakukan register ke https://cloudflare.com, Jika kalian belum mempunyai akun __Cloudflare__ kalian bisa melakukan registrasi dengan klik link dibawah ini.
 
-LINK Cloudflare : https://dash.cloudflare.com/sign-up
+__LINK Cloudflare__ : https://dash.cloudflare.com/sign-up
 
 ![image](https://user-images.githubusercontent.com/40049149/187872014-5075669a-2218-4860-a070-62232379eac6.png)
 
-2. Jika kalian sudah selesai melakukan registrasi kalian bisa masuk ke menu pages untuk membuat project baru.
+2. Jika kalian sudah selesai melakukan registrasi kalian bisa masuk ke __menu pages__ untuk membuat project baru.
 
 image1
 
-3. Selanjutnya Tekan bagian Connect to GitHub, supaya repository di github kita terdeteksi ke Cloudflare Pages
+3. Selanjutnya Tekan bagian __Connect to GitHub__, supaya repository di github kita terdeteksi ke __Cloudflare Pages__
 
 image1
 
@@ -52,15 +52,15 @@ image1
 
 image1
 
-5. Jika sudah kalian dapat memilih semua repository maupun salah satu repository saja. Dalam hal ini kita hanya menghubungkan cloudflare pages ke salah satu repository saja.
+5. Jika sudah kalian dapat memilih semua repository maupun salah satu repository saja. Dalam hal ini kita hanya menghubungkan __cloudflare pages__ ke salah satu repository saja.
 
 image1
 
-6. kemudian akan menampilkan halaman berikut, dan bisa klik begin setup untuk proses konfigurasinya.
+6. kemudian akan menampilkan halaman berikut, dan bisa klik __begin setup__ untuk proses konfigurasinya.
 
 image1
 
-7. Pastikan untuk mengisi nama dan branch yang digunakan, kemudian pada bagian build settings pilih framework yang digunakan kemudian pastikan untuk memasukkan build commandnya. Jika sudah sesuai langsung saja klik Save and Deploy.
+7. Pastikan untuk mengisi nama dan branch yang digunakan, kemudian pada bagian __build settings__ pilih __framework__ yang digunakan kemudian pastikan untuk memasukkan build commandnya. Jika sudah sesuai langsung saja klik __Save and Deploy__.
 
 image1
 image1
@@ -73,27 +73,27 @@ image1
 
 image1
 
-10. Sekarang kita coba akses aplikasi yang sudah kita deploy menggunakan cloudflare ini dengan url yang ada di sebelah Domains.
+10. Sekarang kita coba akses aplikasi yang sudah kita deploy menggunakan __cloudflare__ ini dengan url yang ada di sebelah __Domains__.
 
 image1
 
-11. Berikut adalah website yang telah berhasil dijalankan ke server Cloudflare Pages.
+11. Berikut adalah website yang telah berhasil dijalankan ke server __Cloudflare Pages__.
 
 image1
 
 ## Update code​
 
-1. Sekarang kita akan mencoba mempraktekkan bagaimana cara kerja dari CI/CD, setiap ada perubahan code maka code tersebut akan dikirimkan ke server Cloudflare Pages.
+Sekarang kita akan mencoba mempraktekkan bagaimana cara kerja dari __CI/CD__, setiap ada perubahan code maka code tersebut akan dikirimkan ke server __Cloudflare Pages__.
 
-2. Sekarang kita akan mencoba untuk melakukan perubahan code pada bagian title, Kita coba ubah pada bagian <title> ... </title>, dimaksudkan untuk mengetahui apakah proses CI/CD berhasil atau tidak.
-
-image1
-
-3. Selanjutnya kita coba lihat di Cloudflare pages kita, disini Cloudflare secara otomatis melakukan build ulang, kenapa? karena sebelumnya kita sudah melakukan suatu perubahan di bagian title tadi. Selanjutnya kita tunggu saja sampai proses build selesai.
+1. Sekarang kita akan mencoba untuk melakukan perubahan code pada bagian __title__, Kita coba ubah pada bagian __<title> ... </title>__, dimaksudkan untuk mengetahui apakah proses __CI/CD__ berhasil atau tidak.
 
 image1
 
-4. Jika sudah selesai dan proses build telah berhasil, maka akan berubah seperti di bawah ini. Pada bagian title yang sebelumnya Dumbflix - Fadhil Darma Putera Z telah menjadi Dumbflix - Frenky Menther
+2. Selanjutnya kita coba lihat di __Cloudflare pages__ kita, disini __Cloudflare__ secara otomatis melakukan build ulang, kenapa? karena sebelumnya kita sudah melakukan suatu perubahan di bagian title tadi. Selanjutnya kita tunggu saja sampai proses build selesai.
+
+image1
+
+3. Jika sudah selesai dan proses build telah berhasil, maka akan berubah seperti di bawah ini. Pada bagian title yang sebelumnya __Dumbflix - Fadhil Darma Putera Z__ telah menjadi __Dumbflix - Frenky Menther__
 
 
 
