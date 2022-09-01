@@ -106,9 +106,12 @@ Sekarang kita akan mencoba mempraktekkan bagaimana cara kerja dari __CI/CD__, se
 
         git commit -m "edit titel"
 
-    ![image](https://user-images.githubusercontent.com/40049149/187887640-da16db93-d1b3-45b0-9214-dd32880047b5.png)
+![image](https://user-images.githubusercontent.com/40049149/187887640-da16db93-d1b3-45b0-9214-dd32880047b5.png)
 
         git push origin main
+    
+![image](https://user-images.githubusercontent.com/40049149/187887782-357f9eff-1c6e-4776-be96-b914f92840a3.png)
+
 
 2. Selanjutnya kita coba lihat di __Cloudflare pages__ kita, disini __Cloudflare__ secara otomatis melakukan build ulang, kenapa? karena sebelumnya kita sudah melakukan suatu perubahan di bagian title tadi. Selanjutnya kita tunggu saja sampai proses build selesai.
 
