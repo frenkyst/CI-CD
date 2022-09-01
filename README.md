@@ -75,11 +75,11 @@ __LINK Cloudflare__ : https://dash.cloudflare.com/sign-up
 
 10. Sekarang kita coba akses aplikasi yang sudah kita deploy menggunakan __cloudflare__ ini dengan url yang ada di sebelah __Domains__.
 
-image1
+![image](https://user-images.githubusercontent.com/40049149/187880171-d37619d2-19cb-4e1e-a3d6-d96fa0fdb304.png)
 
 11. Berikut adalah website yang telah berhasil dijalankan ke server __Cloudflare Pages__.
 
-image1
+![image](https://user-images.githubusercontent.com/40049149/187880382-fe3a7ba7-77f6-4c98-a581-aa35385fb69e.png)
 
 ## Update code​
 
