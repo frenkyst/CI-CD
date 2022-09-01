@@ -50,22 +50,20 @@ __LINK Cloudflare__ : https://dash.cloudflare.com/sign-up
 
 ![image](https://user-images.githubusercontent.com/40049149/187876526-b83688c2-543c-490d-907c-ed6418082622.png)
 
-4. Pilih akun yang sesuai. Misalkan saya menggunakan akun pribadi yang bernama demo-dumbways dan pilih satu repository.
-
-![image](https://user-images.githubusercontent.com/40049149/187876924-407f2140-cdde-43a0-aa08-9f10fbccbbe9.png)
+4. Pilih akun yang sesuai. Misalkan saya menggunakan akun pribadi yang bernama demo-dumbways dan pilih satu repository (karna saya hanya login satu akun maka akan langsung terhubung dengan akun yang ada).
 
 5. Jika sudah kalian dapat memilih semua repository maupun salah satu repository saja. Dalam hal ini kita hanya menghubungkan __cloudflare pages__ ke salah satu repository saja.
 
-image1
+![image](https://user-images.githubusercontent.com/40049149/187876924-407f2140-cdde-43a0-aa08-9f10fbccbbe9.png)
 
 6. kemudian akan menampilkan halaman berikut, dan bisa klik __begin setup__ untuk proses konfigurasinya.
 
-image1
+![image](https://user-images.githubusercontent.com/40049149/187877966-82ecda2a-4b94-4614-81f1-b9f0c79bd0b0.png)
 
 7. Pastikan untuk mengisi nama dan branch yang digunakan, kemudian pada bagian __build settings__ pilih __framework__ yang digunakan kemudian pastikan untuk memasukkan build commandnya. Jika sudah sesuai langsung saja klik __Save and Deploy__.
 
-image1
-image1
+![image](https://user-images.githubusercontent.com/40049149/187878040-ef1e54a6-6ecf-4d8d-bc9c-b951813f62d8.png)
+![image](https://user-images.githubusercontent.com/40049149/187878282-5264b18f-bfe8-44d2-a32f-ed0aa23b557f.png)
 
 8. Setelah itu kita tunggu saja sampai proses build selesai.
 
