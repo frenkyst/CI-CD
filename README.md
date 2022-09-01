@@ -58,7 +58,7 @@ __LINK Cloudflare__ : https://dash.cloudflare.com/sign-up
 
 6. kemudian akan menampilkan halaman berikut, dan bisa klik __begin setup__ untuk proses konfigurasinya.
 
-![image](https://user-images.githubusercontent.com/40049149/187877966-82ecda2a-4b94-4614-81f1-b9f0c79bd0b0.png)
+![image](https://user-images.githubusercontent.com/40049149/187880973-d1dc9cd1-7cba-4b62-8145-a41c2e7bdfce.png)
 
 7. Pastikan untuk mengisi nama dan branch yang digunakan, kemudian pada bagian __build settings__ pilih __framework__ yang digunakan kemudian pastikan untuk memasukkan build commandnya. Jika sudah sesuai langsung saja klik __Save and Deploy__.
 
