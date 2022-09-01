@@ -38,7 +38,7 @@ CI/CD Set-Up with Cloudflare​
 
 LINK Cloudflare : https://dash.cloudflare.com/sign-up
 
-image1
+![image](https://user-images.githubusercontent.com/40049149/187872014-5075669a-2218-4860-a070-62232379eac6.png)
 
 2. Jika kalian sudah selesai melakukan registrasi kalian bisa masuk ke menu pages untuk membuat project baru.
 
