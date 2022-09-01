@@ -71,7 +71,7 @@ __LINK Cloudflare__ : https://dash.cloudflare.com/sign-up
 
 9. Jika proses build berhasil maka akan terlihat seperti berikut.
 
-![image](https://user-images.githubusercontent.com/40049149/187879404-3655c951-f313-4bae-a228-88a0f8978846.png)
+![image](https://user-images.githubusercontent.com/40049149/187879623-bdbce44d-c63c-4661-aafe-68af81c507e6.png)
 
 10. Sekarang kita coba akses aplikasi yang sudah kita deploy menggunakan __cloudflare__ ini dengan url yang ada di sebelah __Domains__.
 
