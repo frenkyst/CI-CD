@@ -48,9 +48,11 @@ __LINK Cloudflare__ : https://dash.cloudflare.com/sign-up
 
 ![image](https://user-images.githubusercontent.com/40049149/187875980-db7dbcce-e998-433c-9352-f235a56919b1.png)
 
+![image](https://user-images.githubusercontent.com/40049149/187876526-b83688c2-543c-490d-907c-ed6418082622.png)
+
 4. Pilih akun yang sesuai. Misalkan saya menggunakan akun pribadi yang bernama demo-dumbways dan pilih satu repository.
 
-image1
+![image](https://user-images.githubusercontent.com/40049149/187876924-407f2140-cdde-43a0-aa08-9f10fbccbbe9.png)
 
 5. Jika sudah kalian dapat memilih semua repository maupun salah satu repository saja. Dalam hal ini kita hanya menghubungkan __cloudflare pages__ ke salah satu repository saja.
 
