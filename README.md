@@ -87,7 +87,18 @@ Sekarang kita akan mencoba mempraktekkan bagaimana cara kerja dari __CI/CD__, se
 
 1. Sekarang kita akan mencoba untuk melakukan perubahan code pada bagian __title__, Kita coba ubah pada bagian __<title> ... </title>__, dimaksudkan untuk mengetahui apakah proses __CI/CD__ berhasil atau tidak.
 
-image1
+      Selanjutnya kita akan coba merubah file index.html. Lalu cari tag html <title> dan rubah isinya
+    
+            git clone git@github.com:frenkyst/wayshub-frontend.git
+
+            nano wayshub-frontend/public/index.html
+
+![image](https://user-images.githubusercontent.com/40049149/187884306-e2ec2fb9-0cb5-44e7-8884-4259cb2b97a3.png)
+
+![image](https://user-images.githubusercontent.com/40049149/187885040-674ac4e5-4f1a-4f56-932c-87251e3359a9.png)
+
+![image](https://user-images.githubusercontent.com/40049149/187885230-0c6e6aa8-2e6e-4d4d-9ad2-ca1e83e169fb.png)
+
 
 2. Selanjutnya kita coba lihat di __Cloudflare pages__ kita, disini __Cloudflare__ secara otomatis melakukan build ulang, kenapa? karena sebelumnya kita sudah melakukan suatu perubahan di bagian title tadi. Selanjutnya kita tunggu saja sampai proses build selesai.
 
